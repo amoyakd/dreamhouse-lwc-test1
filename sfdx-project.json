@@ -5,7 +5,14 @@
             "default": true,
             "package": "DreamHouseLwc",
             "versionName": "Ver 1.0",
-            "versionNumber": "1.0.0.NEXT"
+            "versionNumber": "1.0.0.NEXT",
+            "versionDescription": "Copado Demo",
+            "postInstallScript": "PostInstallScript",
+            "uninstallScript": "PreUninstallScript",
+            "postInstallUrl": "https://copado.com/post-install-instructions.html",
+            "releaseNotesUrl": "https://test.copado.com/test.html",
+            "definitionFile": "config/scratch-org-def.json"
+
         }
     ],
     "namespace": "",
