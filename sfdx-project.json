@@ -3,8 +3,15 @@
         {
             "path": "force-app",
             "default": true,
+            "package": "DreamHouseLwc",
+            "versionName": "Ver 1.0",
+            "versionNumber": "1.0.0.NEXT"
         }
     ],
     "namespace": "",
     "sourceApiVersion": "55.0",
+    "packageAliases": {
+        "DreamHouseLwc": "0Ho8d000000sY6SCAU",
+        "DreamHouseLwc@1.0.0-1": "04t8d000000Dp58AAC"
+    }
 }
