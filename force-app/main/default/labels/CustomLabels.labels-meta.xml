@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>AKD_Test_label3</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AKD_Test_label3</shortDescription>
+        <value>Tets label</value>
+    </labels>
+</CustomLabels>
